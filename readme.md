@@ -1,0 +1,63 @@
+## Robot Chef
+
+At home sitting in living room:
+
+- Stand Up
+- Turn to right
+- Walk forward
+- Turn to the left
+- Walk into kitchen
+- Walk to fridge
+- Open fridge
+- Locate bread
+- Grab bread
+- Walk to table
+- Place bread on table
+- Walk to fridge
+- Open fridge
+- Locate grape jelly
+- Grab grape jelly
+- Walk to table
+- Place grape jelly on table next to bread
+- Walk to pantry
+- Open pantry
+- Locate peanut butter
+- Grab peanut butter
+- Walk to table
+- Place peanut butter on table next to grape jelly
+- Walk to counter
+- Open top drawer
+- Locate butter knife
+- Grab butter knife
+- Move to table
+- Place butter knife on table next to peanut butter
+- Move to counter
+- Open cupboard
+- Locate plate
+- Grab plate
+- Move to table
+- Place Plate on table next to butter knife
+- Grab bread
+- Locate bag tie
+- Remove bag tie
+- Reach into bag
+- Grab a piece of bread
+- Pull out of bag
+- Place bread on table on top of plate
+- Grab peanut butter
+- Remove Lid
+- Grab butter knife
+- Insert butter knife into peanut butter jar
+- Swipe knife inside of peanut butter jar
+- Once knife contains peanut butter remove from jar
+- Spread knife containing peanut butter over bread on plate
+- Take knife insert into grape jelly jar
+- Swipe knife inside of grape jelly jar
+- Once knife contains jelly remove from jar
+- Spread knife containing jelly over peanut butter on the bread on the plate
+- Put knife down
+- Locate bread bag
+- Reach into bag
+- Grab a piece of bread
+- Pull out of bag
+- Place bread on top of the bread on the plate containing peanut butter and jelly.
